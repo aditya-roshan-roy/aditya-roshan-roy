@@ -1,4 +1,4 @@
-### Hi there ![wave](https://user-images.githubusercontent.com/71497246/121955889-16619780-cd7e-11eb-85ef-250bd3930846.gif)
+### Hi there ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 
 
@@ -9,4 +9,5 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
