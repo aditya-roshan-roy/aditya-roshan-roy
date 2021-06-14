@@ -1,4 +1,4 @@
-### Hi there ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Databay showcase gif" title="Databay showcase gif" width="26"/>
 
 
 
@@ -9,5 +9,7 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-
+
 
 
