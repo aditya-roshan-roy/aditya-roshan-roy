@@ -1,4 +1,5 @@
-### Hi there [wave](https://user-images.githubusercontent.com/71497246/121955555-bb2fa500-cd7d-11eb-9786-ae54be23727e.gif)
+### Hi there ![wave](https://user-images.githubusercontent.com/71497246/121955889-16619780-cd7e-11eb-85ef-250bd3930846.gif)
+
 
 
 - 🌱 I’m currently learning React.js
