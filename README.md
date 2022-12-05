@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Databay showcase gif" title="Databay showcase gif" width="40"/>, I'm Aditya Roy</h1>
-<h3 align="center">I am Aditya Roy, an Aspiring Software Engineer and a 3rd year undergrad at SCOE, Pune</h3>
+<h3 align="center">I am Aditya Roy, an Aspiring Software Engineer and a Final year undergrad at SCOE, Pune</h3>
 
 - 🔭 My areas of interest are **Web development, Competitive programming, DS algo and Machine learning.**
 
